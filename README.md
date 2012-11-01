@@ -7,7 +7,7 @@ Dump your WordPress blog into a static blog with Markdown.
 Why?
 ----
 
-I don't want to use WordPress for blogging anymore. I want to use Markdown and control, the look, feel, and templates of my blogs.
+I don't want to use WordPress for blogging anymore. I want to use Markdown so that I can control the look, feel, and templates of my blogs.
 
 
 
