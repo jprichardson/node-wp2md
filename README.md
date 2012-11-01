@@ -21,6 +21,8 @@ Installation
 Example
 ------
 
+**NOTE:** You must have `pandoc` binary installed: http://code.google.com/p/pandoc/downloads/list
+
 
 ```javascript
 wp2md({user: 'YOUR_USER_NAME', url: 'http://yourwordpressblog.com', password: 'YOUR_WORDPRESS_PW', cleanCode: true, addParas: true})
