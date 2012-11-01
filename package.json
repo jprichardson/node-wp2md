@@ -1,0 +1,35 @@
+{
+  "name": "wp2md",
+  "version": "0.0.1",
+  "description": "Convert your WordPress blog to Markdown.",
+  "homepage": [
+    ""
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jprichardson/node-wp2md.git"
+  },
+  "keywords": [
+    "wordpress",
+    "markdown"
+  ],
+  "author": "JP Richardson <jprichardson@gmail.com>",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": ""
+    }
+  ],
+  "dependencies": {
+    "worddump": "0.0.x",
+    "batchflow": "~0.3.0",
+    "nextflow": "~0.2.3",
+    "pdc": "~0.1.1",
+    "string": "~1.1.0"
+  },
+  "devDependencies": {},
+  "main": "./lib/wp2md.js",
+  "scripts": {
+    "test": "mocha test"
+  }
+}
