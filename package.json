@@ -1,6 +1,6 @@
 {
   "name": "wp2md",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Convert your WordPress blog to Markdown.",
   "repository": {
     "type": "git",
